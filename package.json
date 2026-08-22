@@ -1,10 +1,16 @@
 {
   "name": "@rxrcode/shopify-fixtures",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reproducible development data for Shopify.",
   "type": "module",
-  "bin": {"rxr-fixtures": "dist/cli/index.js"},
-  "files": ["dist", "README.md", "LICENSE"],
+  "bin": {
+    "rxr-fixtures": "dist/cli/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "dev": "tsx src/cli/index.ts",
@@ -14,14 +20,29 @@
     "lint": "eslint src tests --max-warnings=0",
     "check": "npm run lint && npm run typecheck && npm test && npm run build"
   },
-  "engines": {"node": ">=20"},
-  "keywords": ["shopify", "fixtures", "development-store", "metaobjects", "metafields", "testing"],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "shopify",
+    "fixtures",
+    "development-store",
+    "metaobjects",
+    "metafields",
+    "testing"
+  ],
   "license": "MIT",
   "publishConfig": {
-  "access": "public"},
-  "repository": {"type": "git", "url": "https://github.com/rxrcode/shopify-fixtures.git"},
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rxrcode/shopify-fixtures.git"
+  },
   "homepage": "https://github.com/rxrcode/shopify-fixtures#readme",
-  "bugs": {"url": "https://github.com/rxrcode/shopify-fixtures/issues"},
+  "bugs": {
+    "url": "https://github.com/rxrcode/shopify-fixtures/issues"
+  },
   "dependencies": {
     "commander": "^14.0.0",
     "dotenv": "^17.2.1",
