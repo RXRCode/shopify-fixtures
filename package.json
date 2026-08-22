@@ -1,6 +1,6 @@
 {
   "name": "@rxrcode/shopify-fixtures",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reproducible development data for Shopify.",
   "type": "module",
   "bin": {
