@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Reproducible development data for Shopify.",
   "type": "module",
-  "bin": {"rxr-fixtures": "./dist/cli/index.js"},
+  "bin": {"rxr-fixtures": "dist/cli/index.js"},
   "files": ["dist", "README.md", "LICENSE"],
   "scripts": {
     "build": "tsc -p tsconfig.json",
