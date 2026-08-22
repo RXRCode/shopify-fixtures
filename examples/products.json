@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "key": "trail-running-shoe",
+      "handle": "trail-running-shoe",
+      "title": "Trail Running Shoe",
+      "vendor": "RXR Demo",
+      "productType": "Footwear",
+      "status": "ACTIVE",
+      "tags": ["fixture", "running"],
+      "options": [{"name": "Size", "values": ["40", "41", "42"]}],
+      "variants": [
+        {"sku": "TRAIL-40", "price": "129.00", "options": {"Size": "40"}},
+        {"sku": "TRAIL-41", "price": "129.00", "options": {"Size": "41"}}
+      ]
+    }
+  ]
+}

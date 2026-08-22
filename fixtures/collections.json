@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "key": "frontpage",
+      "handle": "frontpage",
+      "title": "Home page",
+      "descriptionHtml": ""
+    },
+    {
+      "key": "automated-collection",
+      "handle": "automated-collection",
+      "title": "Automated Collection",
+      "descriptionHtml": ""
+    },
+    {
+      "key": "hydrogen",
+      "handle": "hydrogen",
+      "title": "Hydrogen",
+      "descriptionHtml": ""
+    },
+    {
+      "key": "minimal-collection-1",
+      "handle": "minimal-collection-1",
+      "title": "Minimal Collection 1",
+      "descriptionHtml": "<p>Generated fixture collection.</p>"
+    },
+    {
+      "key": "minimal-collection-2",
+      "handle": "minimal-collection-2",
+      "title": "Minimal Collection 2",
+      "descriptionHtml": "<p>Generated fixture collection.</p>"
+    }
+  ]
+}

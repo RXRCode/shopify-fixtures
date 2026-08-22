@@ -1,0 +1,2 @@
+import { describe, expect, it } from "vitest"; import { generateFixtures } from "../../src/fixtures/generator.js";
+describe("generator",()=>{it("is deterministic",()=>{expect(generateFixtures({seed:42,products:3,collections:1,preset:"fashion"})).toEqual(generateFixtures({seed:42,products:3,collections:1,preset:"fashion"}));});it("changes with seed",()=>{expect(generateFixtures({seed:1,products:2,collections:1,preset:"minimal"})).not.toEqual(generateFixtures({seed:2,products:2,collections:1,preset:"minimal"}));});});

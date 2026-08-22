@@ -1,0 +1,878 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "key": "gift-card",
+      "handle": "gift-card",
+      "title": "Gift Card",
+      "descriptionHtml": "This is a gift card for the store",
+      "vendor": "Snowboard Vendor",
+      "productType": "giftcard",
+      "status": "ACTIVE",
+      "tags": [],
+      "options": [
+        {
+          "name": "Denominations",
+          "values": [
+            "$10",
+            "$25",
+            "$50",
+            "$100"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-gift-card",
+          "price": "10.00",
+          "options": {
+            "Denominations": "$10"
+          }
+        },
+        {
+          "sku": "fixture-gift-card",
+          "price": "25.00",
+          "options": {
+            "Denominations": "$25"
+          }
+        },
+        {
+          "sku": "fixture-gift-card",
+          "price": "50.00",
+          "options": {
+            "Denominations": "$50"
+          }
+        },
+        {
+          "sku": "fixture-gift-card",
+          "price": "100.00",
+          "options": {
+            "Denominations": "$100"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-inventory-not-tracked-snowboard",
+      "handle": "the-inventory-not-tracked-snowboard",
+      "title": "The Inventory Not Tracked Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "sku-untracked-1",
+          "price": "949.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-minimal-snowboard",
+      "handle": "the-minimal-snowboard",
+      "title": "The Minimal Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "",
+      "status": "ACTIVE",
+      "tags": [],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-minimal-snowboard",
+          "price": "885.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-compare-at-price-snowboard",
+      "handle": "the-compare-at-price-snowboard",
+      "title": "The Compare at Price Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-compare-at-price-snowboard",
+          "price": "785.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-archived-snowboard",
+      "handle": "the-archived-snowboard",
+      "title": "The Archived Snowboard",
+      "descriptionHtml": "",
+      "vendor": "Snowboard Vendor",
+      "productType": "snowboard",
+      "status": "ARCHIVED",
+      "tags": [
+        "Archived",
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-archived-snowboard",
+          "price": "629.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-out-of-stock-snowboard",
+      "handle": "the-out-of-stock-snowboard",
+      "title": "The Out of Stock Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-out-of-stock-snowboard",
+          "price": "885.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-videographer-snowboard",
+      "handle": "the-videographer-snowboard",
+      "title": "The Videographer Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-videographer-snowboard",
+          "price": "885.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-hidden-snowboard",
+      "handle": "the-hidden-snowboard",
+      "title": "The Hidden Snowboard",
+      "descriptionHtml": "",
+      "vendor": "Snowboard Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-hidden-snowboard",
+          "price": "749.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "test_data",
+          "key": "snowboard_weight",
+          "type": "weight",
+          "value": "{\"value\":8.0,\"unit\":\"POUNDS\"}"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "type": "string",
+          "value": "Hidden Snowboard"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "type": "string",
+          "value": "hidden snowboard winter sport snowboarding"
+        }
+      ]
+    },
+    {
+      "key": "the-draft-snowboard",
+      "handle": "the-draft-snowboard",
+      "title": "The Draft Snowboard",
+      "descriptionHtml": "",
+      "vendor": "Snowboard Vendor",
+      "productType": "snowboard",
+      "status": "DRAFT",
+      "tags": [],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-draft-snowboard",
+          "price": "2629.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-complete-snowboard",
+      "handle": "the-complete-snowboard",
+      "title": "The Complete Snowboard",
+      "descriptionHtml": "This <b>PREMIUM</b> <i>snowboard</i> is so <b>SUPER</b><i>DUPER</i> awesome!",
+      "vendor": "Snowboard Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Ice",
+            "Dawn",
+            "Powder",
+            "Electric",
+            "Sunset"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-complete-snowboard",
+          "price": "699.95",
+          "options": {
+            "Color": "Ice"
+          }
+        },
+        {
+          "sku": "fixture-the-complete-snowboard",
+          "price": "699.95",
+          "options": {
+            "Color": "Dawn"
+          }
+        },
+        {
+          "sku": "fixture-the-complete-snowboard",
+          "price": "699.95",
+          "options": {
+            "Color": "Powder"
+          }
+        },
+        {
+          "sku": "fixture-the-complete-snowboard",
+          "price": "699.95",
+          "options": {
+            "Color": "Electric"
+          }
+        },
+        {
+          "sku": "fixture-the-complete-snowboard",
+          "price": "699.95",
+          "options": {
+            "Color": "Sunset"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "type": "string",
+          "value": "Complete Snowboard"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "type": "string",
+          "value": "snowboard winter sport snowboarding"
+        },
+        {
+          "namespace": "test_data",
+          "key": "snowboard_length",
+          "type": "dimension",
+          "value": "{\"value\":159.0,\"unit\":\"CENTIMETERS\"}"
+        },
+        {
+          "namespace": "test_data",
+          "key": "snowboard_weight",
+          "type": "weight",
+          "value": "{\"value\":7.0,\"unit\":\"POUNDS\"}"
+        }
+      ]
+    },
+    {
+      "key": "the-collection-snowboard-hydrogen",
+      "handle": "the-collection-snowboard-hydrogen",
+      "title": "The Collection Snowboard: Hydrogen",
+      "descriptionHtml": "",
+      "vendor": "Hydrogen Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-collection-snowboard-hydrogen",
+          "price": "600.00",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "test_data",
+          "key": "binding_mount",
+          "type": "single_line_text_field",
+          "value": "Optimistic"
+        }
+      ]
+    },
+    {
+      "key": "selling-plans-ski-wax",
+      "handle": "selling-plans-ski-wax",
+      "title": "Selling Plans Ski Wax",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "accessories",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Selling Plans Ski Wax",
+            "Special Selling Plans Ski Wax",
+            "Sample Selling Plans Ski Wax"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-selling-plans-ski-wax",
+          "price": "24.95",
+          "options": {
+            "Title": "Selling Plans Ski Wax"
+          }
+        },
+        {
+          "sku": "fixture-selling-plans-ski-wax",
+          "price": "49.95",
+          "options": {
+            "Title": "Special Selling Plans Ski Wax"
+          }
+        },
+        {
+          "sku": "fixture-selling-plans-ski-wax",
+          "price": "9.95",
+          "options": {
+            "Title": "Sample Selling Plans Ski Wax"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-multi-location-snowboard",
+      "handle": "the-multi-location-snowboard",
+      "title": "The Multi-location Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-multi-location-snowboard",
+          "price": "729.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-multi-managed-snowboard",
+      "handle": "the-multi-managed-snowboard",
+      "title": "The Multi-managed Snowboard",
+      "descriptionHtml": "",
+      "vendor": "Multi-managed Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "sku-managed-1",
+          "price": "629.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "test_data",
+          "key": "snowboard_length",
+          "type": "dimension",
+          "value": "{\"value\":159.0,\"unit\":\"CENTIMETERS\"}"
+        }
+      ]
+    },
+    {
+      "key": "the-3p-fulfilled-snowboard",
+      "handle": "the-3p-fulfilled-snowboard",
+      "title": "The 3p Fulfilled Snowboard",
+      "descriptionHtml": "",
+      "vendor": "gil-portfolio",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "sku-hosted-1",
+          "price": "2629.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": []
+    },
+    {
+      "key": "the-collection-snowboard-oxygen",
+      "handle": "the-collection-snowboard-oxygen",
+      "title": "The Collection Snowboard: Oxygen",
+      "descriptionHtml": "",
+      "vendor": "Hydrogen Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-collection-snowboard-oxygen",
+          "price": "1025.00",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "test_data",
+          "key": "binding_mount",
+          "type": "single_line_text_field",
+          "value": "Optimistic"
+        }
+      ]
+    },
+    {
+      "key": "the-collection-snowboard-liquid",
+      "handle": "the-collection-snowboard-liquid",
+      "title": "The Collection Snowboard: Liquid",
+      "descriptionHtml": "",
+      "vendor": "Hydrogen Vendor",
+      "productType": "snowboard",
+      "status": "ACTIVE",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "fixture-the-collection-snowboard-liquid",
+          "price": "749.95",
+          "options": {
+            "Title": "Default Title"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "test_data",
+          "key": "binding_mount",
+          "type": "single_line_text_field",
+          "value": "Optimistic"
+        }
+      ]
+    },
+    {
+      "key": "classic-mug-1",
+      "handle": "classic-mug-1",
+      "title": "Classic Mug 1",
+      "descriptionHtml": "<p>Generated by RXR Shopify Fixtures using seed 42.</p>",
+      "vendor": "RXR Fixtures",
+      "productType": "Demo",
+      "status": "ACTIVE",
+      "tags": [
+        "fixture",
+        "minimal"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RXR-42-1-1",
+          "price": "123.99",
+          "options": {
+            "Title": "Default"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "rxr_fixtures",
+          "key": "fixture_seed",
+          "type": "number_integer",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "classic-tote-2",
+      "handle": "classic-tote-2",
+      "title": "Classic Tote 2",
+      "descriptionHtml": "<p>Generated by RXR Shopify Fixtures using seed 42.</p>",
+      "vendor": "RXR Fixtures",
+      "productType": "Demo",
+      "status": "ACTIVE",
+      "tags": [
+        "fixture",
+        "minimal"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RXR-42-2-1",
+          "price": "24.99",
+          "options": {
+            "Title": "Default"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "rxr_fixtures",
+          "key": "fixture_seed",
+          "type": "number_integer",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "simple-mug-3",
+      "handle": "simple-mug-3",
+      "title": "Simple Mug 3",
+      "descriptionHtml": "<p>Generated by RXR Shopify Fixtures using seed 42.</p>",
+      "vendor": "RXR Fixtures",
+      "productType": "Demo",
+      "status": "ACTIVE",
+      "tags": [
+        "fixture",
+        "minimal"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RXR-42-3-1",
+          "price": "177.99",
+          "options": {
+            "Title": "Default"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "rxr_fixtures",
+          "key": "fixture_seed",
+          "type": "number_integer",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "everyday-notebook-4",
+      "handle": "everyday-notebook-4",
+      "title": "Everyday Notebook 4",
+      "descriptionHtml": "<p>Generated by RXR Shopify Fixtures using seed 42.</p>",
+      "vendor": "RXR Fixtures",
+      "productType": "Demo",
+      "status": "ACTIVE",
+      "tags": [
+        "fixture",
+        "minimal"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RXR-42-4-1",
+          "price": "109.99",
+          "options": {
+            "Title": "Default"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "rxr_fixtures",
+          "key": "fixture_seed",
+          "type": "number_integer",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "simple-notebook-5",
+      "handle": "simple-notebook-5",
+      "title": "Simple Notebook 5",
+      "descriptionHtml": "<p>Generated by RXR Shopify Fixtures using seed 42.</p>",
+      "vendor": "RXR Fixtures",
+      "productType": "Demo",
+      "status": "ACTIVE",
+      "tags": [
+        "fixture",
+        "minimal"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RXR-42-5-1",
+          "price": "127.99",
+          "options": {
+            "Title": "Default"
+          }
+        }
+      ],
+      "metafields": [
+        {
+          "namespace": "rxr_fixtures",
+          "key": "fixture_seed",
+          "type": "number_integer",
+          "value": "42"
+        }
+      ]
+    }
+  ]
+}

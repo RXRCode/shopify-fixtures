@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "metaobjects": [
+    {
+      "type": "project",
+      "handle": "magento-to-shopify-b-2-b-migration",
+      "fields": {
+        "title": "Magento to Shopify B2B Migration",
+        "description": "A 6–8 month migration of a mature B2B eCommerce operation from Magento to Shopify. The work covered catalog and customer migration, storefront and account customization, wholesale rules, ERP-connected workflows, analytics, payment methods, and the integrations required to keep the wider commerce operation connected.",
+        "project_type": "B2B eCommerce Migration",
+        "technologies": "[\"Shopify\",\"Liquid\",\"React\",\"Javascript\",\"GraphQL\",\"Storefront API\",\"Metaobjects\",\"ERP Integration\",\"Salsify\",\"GA4\",\"API/EDI\",\"Vite\"]",
+        "year": "2024",
+        "role": "Shopify Administrator / Developer",
+        "featured": "true",
+        "live_url": "https://truebrands.com/",
+        "github": "",
+        "hero_image": "gid://shopify/MediaImage/34339797106865",
+        "screenshots": "[\"gid://shopify/MediaImage/34339797074097\",\"gid://shopify/MediaImage/34339797041329\"]",
+        "gallery_description": "The project combined storefront work, B2B customer experience, business rules, data migration, analytics, and integrations. The screens and diagrams below show the Shopify experience together with the systems and operational requirements connected behind it.",
+        "featured_screenshot": "",
+        "project_sections": "[\"gid://shopify/Metaobject/282106265777\",\"gid://shopify/Metaobject/282106331313\",\"gid://shopify/Metaobject/282106396849\",\"gid://shopify/Metaobject/282106462385\",\"gid://shopify/Metaobject/282106495153\",\"gid://shopify/Metaobject/282106560689\"]"
+      }
+    },
+    {
+      "type": "project",
+      "handle": "collection-product-operations-toolkit",
+      "fields": {
+        "title": "Collection & Product Operations Toolkit",
+        "description": "An internal Shopify Admin toolkit for collection merchandising and catalog operations. It brings collection sorting, product ordering, catalog cleanup scans, and bulk product editing into one focused workflow built around Shopify data.",
+        "project_type": "Internal Shopify App",
+        "technologies": "[\"Shopify\",\"Preact\",\"Typescript\",\"GraphQL\",\"Admin API\",\"Shopify Admin UI\"]",
+        "year": "2026",
+        "role": "Shopify Administrator / Developer — AI-assisted with Shopify Sidekick",
+        "featured": "true",
+        "live_url": "",
+        "github": "",
+        "hero_image": "gid://shopify/MediaImage/34339665281201",
+        "screenshots": "[\"gid://shopify/MediaImage/34339667411121\",\"gid://shopify/MediaImage/34339667378353\",\"gid://shopify/MediaImage/34339667443889\"]",
+        "gallery_description": "The toolkit is organized around four operational workflows: collection management, product ordering, catalog cleanup, and bulk product editing. The screens show how the app turns Shopify data and Admin operations into a focused internal workflow.",
+        "featured_screenshot": "",
+        "project_sections": "[\"gid://shopify/Metaobject/282102300849\",\"gid://shopify/Metaobject/282104430769\",\"gid://shopify/Metaobject/282104561841\",\"gid://shopify/Metaobject/282104692913\",\"gid://shopify/Metaobject/282104660145\",\"gid://shopify/Metaobject/282104758449\"]"
+      }
+    },
+    {
+      "type": "project",
+      "handle": "innovine-european-dtc-brand-launch",
+      "fields": {
+        "title": "Innovine — European DTC Brand Launch",
+        "description": "A new direct-to-consumer Shopify storefront created to support Innovine’s expansion into the European market. I translated the approved brand direction and design mockups into a complete commerce experience, then connected the storefront to the company’s product, ERP, fulfillment, marketing, and CRM systems.",
+        "project_type": "Shopify DTC / Market Expansion",
+        "technologies": "[\"Shopify\",\"Liquid\",\"HTML\",\"CSS\",\"Javascript\",\"PIM\",\"ERP\",\"3PL\",\"Hubspot\",\"Klaviyo\",\"Google Tag\"]",
+        "year": "2025",
+        "role": "Shopify Developer / Commerce Engineer",
+        "featured": "false",
+        "live_url": "https://www.innovine.com/",
+        "github": "",
+        "hero_image": "gid://shopify/MediaImage/34348639158449",
+        "screenshots": "[\"gid://shopify/MediaImage/34348639223985\",\"gid://shopify/MediaImage/34348639256753\"]",
+        "gallery_description": "",
+        "featured_screenshot": "",
+        "project_sections": "[\"gid://shopify/Metaobject/282585923761\",\"gid://shopify/Metaobject/282585956529\",\"gid://shopify/Metaobject/282586022065\",\"gid://shopify/Metaobject/282586087601\",\"gid://shopify/Metaobject/282586120369\",\"gid://shopify/Metaobject/282586153137\"]"
+      }
+    },
+    {
+      "type": "project",
+      "handle": "store-proof-automated-shopify-storefront-qa",
+      "fields": {
+        "title": "StoreProof — Automated Shopify Storefront QA",
+        "description": "StoreProof is an independent storefront QA platform built to help Shopify teams identify customer-facing issues before they become expensive.\n\nA user submits a public storefront URL and StoreProof evaluates the buying experience using real-browser automation, examining commerce flows, mobile behavior, performance, accessibility, SEO and technical health.\n\nThe product was designed around a second challenge that became just as important as issue detection: automated systems should not present uncertainty as fact.\n\nStoreProof therefore separates confirmed findings from incomplete or inconclusive evidence and reports Store Health, Audit Coverage and Result Confidence independently.\n\nThe result is a storefront QA experience focused not only on finding problems, but on explaining what was tested, what was verified and how strongly the available evidence supports the result.",
+        "project_type": "SaaS / Automated QA Platform",
+        "technologies": "[\"Next.js\",\"React\",\"Typescript\",\"Node.js\",\"Playwright\",\"Chromium\",\"axe-core\",\"PostgreSQL\",\"Redis\",\"BullMQ\",\"Vercel\",\"Railway\",\"Supabase\",\"S3-compatible Object Storage\",\"Cloudflare\"]",
+        "year": "2026",
+        "role": "Founder / Product Engineer / Full-Stack Developer",
+        "featured": "true",
+        "live_url": "https://storeproof.rxrcode.dev",
+        "github": "",
+        "hero_image": "gid://shopify/MediaImage/34368810647729",
+        "screenshots": "[\"gid://shopify/MediaImage/34368810647729\",\"gid://shopify/MediaImage/34368810680497\",\"gid://shopify/MediaImage/34368810582193\",\"gid://shopify/MediaImage/34368810746033\"]",
+        "gallery_description": "",
+        "featured_screenshot": "gid://shopify/MediaImage/34368810582193",
+        "project_sections": "[\"gid://shopify/Metaobject/283001946289\",\"gid://shopify/Metaobject/283002765489\",\"gid://shopify/Metaobject/283003158705\",\"gid://shopify/Metaobject/283003257009\",\"gid://shopify/Metaobject/283003486385\",\"gid://shopify/Metaobject/283003846833\",\"gid://shopify/Metaobject/283004534961\",\"gid://shopify/Metaobject/283004895409\",\"gid://shopify/Metaobject/283005059249\",\"gid://shopify/Metaobject/283005157553\"]"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "the-operational-problem",
+      "fields": {
+        "title": "The Operational Problem",
+        "section_type": "challenge",
+        "content": "The team needed a more focused way to handle recurring collection and product operations inside Shopify. Collection merchandising, manual product ordering, catalog checks, and common product updates were related tasks, but they lived across separate admin workflows.\n\nThe goal was to bring those operations into one company-specific tool without replacing Shopify Admin itself. The app also needed to work against real store data, support larger catalogs through pagination, surface progress and errors clearly, and avoid applying changes until the user deliberately confirmed an action.",
+        "image": "",
+        "order": "1"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "a-focused-shopify-admin-toolkit",
+      "fields": {
+        "title": "A Focused Shopify Admin Toolkit",
+        "section_type": "solution",
+        "content": "I created a Shopify Admin toolkit organized around four workflows: Collections, Product Order, Cleanup, and Bulk Edit.\n\nInstead of building another storefront feature, the project focuses on the operational side of commerce. It gives the internal team a single interface for collection-level sorting, manual merchandising, catalog-quality checks, and selected-product updates while keeping Shopify as the underlying source of truth.\n\nThe implementation was developed iteratively with Shopify Sidekick as an AI-assisted development tool. I used the company workflow and store requirements to shape what the tool needed to do, then tested, troubleshot, and refined the generated implementation inside the Shopify environment.",
+        "image": "gid://shopify/MediaImage/34339681960113",
+        "order": "2"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "03-shopify-native-api-driven-architecture",
+      "fields": {
+        "title": "Shopify-Native, API-Driven Architecture",
+        "section_type": "architecture",
+        "content": "The application is built with Preact and TypeScript inside the Shopify Admin environment and communicates with Shopify through GraphQL queries and mutations.\n\nCollection, product, inventory, media, pricing, tag, and variant data are loaded directly from Shopify. Larger result sets are paginated in controlled batches, while long-running product reorder operations use Shopify job polling before the interface reports completion.\n\nApplication state handles filters, selections, loading states, progress, warnings, success messages, and API or user errors. This makes the tool more than a static admin screen: it is an operational interface built around Shopify's live commerce data and mutation workflow.",
+        "image": "gid://shopify/MediaImage/34339683893425",
+        "order": "3"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "04-collection-product-merchandising",
+      "fields": {
+        "title": "Collection & Product Merchandising",
+        "section_type": "implementation",
+        "content": "The Collections workspace retrieves each collection's title, sort order, product count, and whether it is manual or automated. Users can search and filter the list, then apply a Shopify sorting strategy to one collection, selected collections, or all collections matching the current filter.\n\nFor manual collections, Product Order provides a dedicated merchandising workspace. Products can be moved up, down, to the top, or to the bottom. The tool can also prepare automatic arrangements such as sold-out products last, price low-to-high or high-to-low, inventory high-to-low, and best-selling first.\n\nThe new order remains local until Save order is pressed. The app then sends only the required moves to Shopify and monitors the asynchronous reorder job.",
+        "image": "",
+        "order": "4"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "05-catalog-cleanup-bulk-operations",
+      "fields": {
+        "title": " Catalog Cleanup & Bulk Operations",
+        "section_type": "implementation",
+        "content": "The Cleanup workspace adds catalog-quality checks for products with no images, products that do not belong to any collection, and collections with no products. Product scans are paginated so the interface can work through larger catalogs while reporting what has been checked and what was flagged.\n\nBulk Edit loads products from a selected collection and allows specific items to be updated together. Supported operations include product status, vendor, product type, variant pricing, tags to add, and tags to remove.\n\nThe app uses separate Shopify mutations for product data, variant pricing, and tag operations while tracking progress and surfacing Shopify API or user errors during execution.",
+        "image": "",
+        "order": "5"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "06-a-company-specific-operations-layer",
+      "fields": {
+        "title": " A Company-Specific Operations Layer",
+        "section_type": "result",
+        "content": "The finished app is an installed internal Shopify tool that consolidates several merchandising and catalog-management workflows into one focused interface.\n\nIt gives the team a purpose-built layer for collection sorting, product ordering, catalog checks, and common bulk updates while continuing to use Shopify as the underlying commerce platform.\n\nFor my portfolio, the project also represents an important expansion of my Shopify work: from storefront development and integrations into internal application tooling, Admin GraphQL operations, asynchronous jobs, bulk data workflows, and AI-assisted software delivery.",
+        "image": "gid://shopify/MediaImage/34339685531825",
+        "order": "6"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "01-migrating-more-than-a-storefront",
+      "fields": {
+        "title": " Migrating More Than a Storefront",
+        "section_type": "challenge",
+        "content": "The migration was not simply a Magento redesign on Shopify. The existing B2B platform carried product data, customer accounts, order history, wholesale workflows, payment requirements, pricing logic, compliance rules, analytics, and connections to external business systems.\n\nMoving to Shopify meant identifying which parts of the Magento experience were standard commerce behavior and which were company-specific operating rules that still had to exist after launch. Catalog structure, account behavior, integrations, and B2B requirements had to be treated as connected parts of the same migration rather than isolated pieces of data.\n\nBecause the project touched both the customer-facing experience and internal operations, the work required coordination across business and technical teams over roughly six to eight months.",
+        "image": "gid://shopify/MediaImage/34339796943025",
+        "order": "1"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "02-a-phased-migration-built-around-business-requirements",
+      "fields": {
+        "title": "A Phased Migration Built Around Business Requirements",
+        "section_type": "solution",
+        "content": "I worked across the migration with stakeholders, the marketing team, an API/EDI integrator, and a third-party vendor responsible for the ERP connection. My role covered Shopify implementation as well as the translation of existing business requirements into the new commerce environment.\n\nThe approach combined theme customization, migration and data mapping, B2B account work, integration coordination, analytics migration, payment configuration, and the rebuilding of customer-specific commerce rules.\n\nInstead of trying to reproduce Magento screen-for-screen, the project used Shopify as the new platform foundation while preserving the workflows and rules the business still depended on. This required continuous validation with the teams responsible for merchandising, marketing, integrations, and operations as each part of the new experience was connected.",
+        "image": "",
+        "order": "2"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "03-storefront-commerce-data-and-business-systems",
+      "fields": {
+        "title": "Storefront, Commerce Data, and Business Systems",
+        "section_type": "architecture",
+        "content": "The Shopify storefront sat at the center of a broader B2B commerce stack. Theme and customer-facing work used Shopify's theme architecture, Liquid, JavaScript, React, GraphQL, the Storefront API, and structured Shopify data such as Metaobjects where appropriate.\n\nBehind the storefront, the migration depended on connected systems for product information, ERP-driven operational data, API/EDI workflows, payments, analytics, and other business services. Product and customer data had to be mapped carefully so that the new Shopify implementation aligned with the external systems rather than becoming an isolated storefront.\n\nThe architecture therefore had two responsibilities: provide a maintainable Shopify experience for customers and give the surrounding business systems reliable points of connection for catalog, account, order, inventory, pricing, and operational workflows.",
+        "image": "",
+        "order": "3"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "04-rebuilding-the-b-2-b-customer-experience",
+      "fields": {
+        "title": "Rebuilding the B2B Customer Experience",
+        "section_type": "implementation",
+        "content": "On the storefront side, I worked on theme customization and the B2B experience rather than limiting the migration to product and customer imports.\n\nThe new Shopify experience included custom account-page work, customer and order-history requirements, payment-gateway configuration, support for additional business payment modes, and customer-specific experiences such as custom planograms and customization-request forms.\n\nProduct behavior also had to reflect real wholesale rules. Certain items required no-breakpack handling, while other products followed pricing and quantity-break requirements. Applicable items also needed Prop 65 warning logic so that required product messaging could be surfaced consistently in the storefront.\n\nThese features turned the storefront into a business-aware B2B experience rather than a generic Shopify catalog.",
+        "image": "gid://shopify/MediaImage/34339796910257",
+        "order": "4"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "05-integration-data-mapping-and-commerce-rules",
+      "fields": {
+        "title": "Integration, Data Mapping, and Commerce Rules",
+        "section_type": "integration",
+        "content": "A significant part of the migration happened behind the visible storefront. I participated in data mapping and integration work so Shopify could connect cleanly with the systems used by the business.\n\nThe ERP connection supported inventory, order, and financial workflows through a third-party integration vendor. API/EDI work required coordination with a separate integrator, while Salsify was connected into the product-information flow. Analytics and measurement also had to move with the storefront, including GA4 and related tracking requirements.\n\nCommerce rules crossed system boundaries as well. Pricing behavior, quantity breaks, product restrictions, customer-specific requirements, payment methods, and product data all had to remain consistent with the business logic expected by the wider operation.\n\nThis integration work was one of the reasons the migration took months rather than being a simple theme launch: Shopify had to become part of an existing operational ecosystem.",
+        "image": "",
+        "order": "5"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "06-a-shopify-foundation-for-ongoing-b-2-b-commerce",
+      "fields": {
+        "title": "A Shopify Foundation for Ongoing B2B Commerce",
+        "section_type": "result",
+        "content": "The migration established Shopify as the new foundation for the company's B2B commerce experience while carrying forward the major catalog, account, wholesale, payment, integration, analytics, and operational requirements that had existed around the Magento platform.\n\nThe result was not only a new storefront. It created a maintainable Shopify environment where customer-facing features could continue to evolve while integrations connected inventory, orders, product information, analytics, and other operational workflows behind the interface.\n\nFor me, the project brought together the different parts of my experience that matter most in commerce engineering: storefront development, B2B workflows, React and Liquid customization, GraphQL and Shopify APIs, data mapping, ERP-connected processes, third-party integrations, troubleshooting, and cross-functional delivery across a long-running migration.",
+        "image": "gid://shopify/MediaImage/34339827089585",
+        "order": "6"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "launching-a-new-brand-into-a-new-market",
+      "fields": {
+        "title": "Launching a new brand into a new market",
+        "section_type": "challenge",
+        "content": "Innovine was part of a broader initiative to expand the company’s consumer product portfolio into Europe. The challenge was not simply to publish another Shopify store. The new storefront needed to establish a distinct identity for a modern premium barware brand while still connecting to the commerce infrastructure already supporting a multi-brand organization.\n\nMultiple stakeholder sessions were used to align on the target customer, visual direction, brand tone, product presentation, and overall shopping experience. The final experience needed to balance a more elevated consumer-facing identity with the practical requirements of product data, inventory, pricing, orders, fulfillment, marketing, and customer management.",
+        "image": "",
+        "order": "1"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "turning-the-brand-direction-into-a-complete-commerce-experience",
+      "fields": {
+        "title": "Turning the brand direction into a complete commerce experience",
+        "section_type": "solution",
+        "content": "After the brand direction was finalized, I worked alongside the in-house designer as the visual concepts and mockups were developed. My role was to translate that direction into the working Shopify storefront.\n\nI built the customer-facing experience across the site—from the landing page and merchandising sections through collection, product, brand story, informational, and supporting pages—while making sure the visual system remained consistent across desktop and mobile.\n\nRather than treating the design as a set of isolated pages, I implemented it as a reusable Shopify theme system that could support ongoing merchandising and future product growth after launch.",
+        "image": "gid://shopify/MediaImage/34348639191217",
+        "order": "2"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "building-the-storefront-from-mockup-to-production",
+      "fields": {
+        "title": "Building the storefront from mockup to production",
+        "section_type": "implementation",
+        "content": "With the approved theme direction and design mockups in place, I implemented the storefront in Shopify and developed the pages and components required for the complete customer journey.\n\nThis included responsive landing-page sections, collection merchandising, product presentation, navigation, brand and informational pages, cart-related experiences, and reusable storefront components. I also configured the commerce fundamentals needed for launch so the visual experience and Shopify configuration worked as one production storefront.\n\nThe goal was to preserve the visual intent of the design while keeping the implementation maintainable enough for the internal team to continue managing products, content, campaigns, and merchandising after launch.",
+        "image": "",
+        "order": "3"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "a-storefront-connected-to-the-wider-commerce-stack",
+      "fields": {
+        "title": "A storefront connected to the wider commerce stack",
+        "section_type": "architecture",
+        "content": "Innovine was built as the customer-facing layer of a larger multi-system commerce workflow rather than as an isolated Shopify store.\n\nProduct information originates from the company’s product information management workflow and is mapped into Shopify for storefront use. Shopify then serves the customer experience while remaining connected to downstream operational systems responsible for pricing, inventory availability, orders, and fulfillment.\n\nThis separation allowed each platform to retain a clear responsibility: the PIM manages structured product information, Shopify delivers the commerce experience, the ERP remains part of the operational record, and fulfillment is handled through the connected logistics workflow.",
+        "image": "",
+        "order": "4"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "connecting-product-operations-fulfillment-and-growth-systems",
+      "fields": {
+        "title": "Connecting product, operations, fulfillment, and growth systems",
+        "section_type": "integration",
+        "content": "Beyond the storefront build, I configured and mapped the integrations required to make Innovine operate as part of the company’s existing commerce ecosystem.\n\nProduct data was connected through the PIM workflow, while ERP mappings supported order synchronization and the flow of pricing and available quantity back into Shopify. Shipping and fulfillment were configured around the company’s third-party logistics provider so storefront orders could move into the operational fulfillment process.\n\nI also implemented the marketing and customer tooling required by the internal teams, including Google tracking, HubSpot, Klaviyo, and related integrations. This gave marketing and CRM teams the data and storefront touchpoints they needed without separating those tools from the core commerce workflow.",
+        "image": "",
+        "order": "5"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "from-brand-concept-to-an-operating-european-storefront",
+      "fields": {
+        "title": "From brand concept to an operating European storefront",
+        "section_type": "result",
+        "content": "The project moved Innovine from stakeholder concept and design direction into a complete production commerce experience with the systems required to support ongoing operations.\n\nThe resulting storefront gave the brand its own customer-facing identity while keeping product information, inventory, pricing, order processing, fulfillment, marketing, and CRM connected to the broader company ecosystem.\n\nFollowing launch, Innovine gained strong momentum within the company’s brand portfolio and provided a scalable foundation for continued product and market growth.",
+        "image": "",
+        "order": "6"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "the-common-shopify-problem",
+      "fields": {
+        "title": "Storefront Issues Are Often Found Too Late",
+        "section_type": "problem",
+        "content": "Shopify storefront issues can exist without producing an obvious visual failure.\n\nA product page may load normally while Add to Cart fails. A critical action may work on desktop but become difficult to use on mobile. JavaScript errors, failed network requests, accessibility problems and missing metadata can remain unnoticed until customers encounter them.\n\nFor commerce teams, these issues are directly tied to the buying experience and can create unnecessary friction or lost revenue.\n\nThe challenge was to build a tool that could inspect a public Shopify storefront from the customer side, identify meaningful problems and explain the findings without requiring access to the merchant’s Shopify Admin.",
+        "image": "",
+        "order": "1"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "a-public-storefront-audit-with-no-installation",
+      "fields": {
+        "title": "A Public Storefront Audit With No Installation",
+        "section_type": "implementation",
+        "content": "StoreProof was designed as a standalone Shopify storefront QA platform.\n\nA user submits a public store URL and StoreProof opens the storefront in a real Chromium browser, follows the customer experience and produces a prioritized audit report.\n\nThe scan does not require:\n\nShopify Admin access\nA Shopify app installation\nCustomer account credentials\nCheckout access\n\nStoreProof performs safe storefront interactions but deliberately stops before checkout, payment or order creation.\n\nThis keeps the initial audit frictionless while still allowing the platform to test the parts of the storefront that directly affect a customer’s ability to browse and purchase.",
+        "image": "",
+        "order": "2"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "testing-the-store-like-a-customer",
+      "fields": {
+        "title": "Testing the Store Like a Customer",
+        "section_type": "implementation",
+        "content": "StoreProof does not evaluate a storefront as a collection of isolated pages.\n\nThe scanner attempts to follow an actual commerce journey:\n\nHomepage\n→ product discovery\n→ product page\n→ variant state\n→ Add to Cart\n→ cart verification\n→ mobile validation\n\nProducts are discovered directly from the storefront and a controlled sample is selected for testing.\n\nPlaywright controls a real Chromium browser so the scanner can observe rendered pages, interactions, JavaScript behavior and network activity rather than relying only on static HTTP responses.\n\nCommerce interactions are intentionally limited to avoid aggressive crawling or unnecessary cart mutations.",
+        "image": "",
+        "order": "3"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "measuring-the-parts-of-a-store-that-matter",
+      "fields": {
+        "title": "Measuring the Parts of a Store That Matter",
+        "section_type": "implementation",
+        "content": "StoreProof evaluates six major areas of storefront quality.\n\nCommerce — 30%\nProduct interaction, Add to Cart behavior and the buying journey.\n\nMobile — 20%\nCritical storefront interactions and usability at mobile viewport sizes.\n\nPerformance — 15%\nPerformance-related storefront conditions and page behavior.\n\nAccessibility — 15%\nAutomated accessibility analysis using axe-core together with browser observations.\n\nTechnical — 10%\nJavaScript errors, failed resources, network behavior and technical storefront issues.\n\nSEO — 10%\nTitles, descriptions, canonical information and other storefront SEO signals.\n\nCommerce and Mobile receive the greatest weighting because failures in these areas are closest to the customer’s ability to complete a purchase.",
+        "image": "",
+        "order": "4"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "failure-to-prove-success-is-not-proof-of-failure",
+      "fields": {
+        "title": "Failure to Prove Success Is Not Proof of Failure",
+        "section_type": "implementation",
+        "content": "The most difficult part of StoreProof was not finding errors. It was deciding when the scanner had enough evidence to fairly classify something as broken.\n\nEvery important check can end as:\n\nPassed\nFailed\nInconclusive\nNot tested\nExcluded\n\nOnly confirmed findings with sufficient evidence should reduce storefront health.\n\nIf StoreProof cannot verify an interaction because automation is blocked, authentication is required or the response is ambiguous, the check can remain inconclusive instead of becoming a merchant failure.\n\nThis prevents limitations of the scanner from being incorrectly presented as problems with the business being audited.",
+        "image": "",
+        "order": "5"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "separating-store-health-from-scanner-certainty",
+      "fields": {
+        "title": "Separating Store Health From Scanner Certainty",
+        "section_type": "implementation",
+        "content": "StoreProof intentionally avoids presenting one number as the complete truth.\n\nEach report separates three different concepts.\n\nStore Health Score\n\nRepresents the health of the storefront based on findings StoreProof was able to confirm.\n\nAudit Coverage\n\nRepresents how much of the intended storefront journey and audit surface was successfully tested.\n\nResult Confidence\n\nRepresents how strongly the available evidence supports the result.\n\nA storefront can therefore receive a strong health score while still showing reduced coverage or confidence when important parts of the journey could not be verified.\n\nWhen the evidence is incomplete, the report can be marked provisional.\n\nThis makes uncertainty visible instead of hiding it behind a confident-looking score.",
+        "image": "",
+        "order": "6"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "distinguishing-store-failures-from-automation-limits",
+      "fields": {
+        "title": "Distinguishing Store Failures From Automation Limits",
+        "section_type": "integration",
+        "content": "Real production storefronts do not always respond to browser automation the same way they respond to a normal shopper.\n\nStoreProof therefore interprets network responses conservatively.\n\nHTTP 401, 403 and 429 responses are treated as scanner or automation limitations rather than immediate proof of a broken storefront.\n\nAmbiguous cart responses such as 400, 409 and 422 are not automatically converted into confirmed commerce failures without stronger evidence.\n\nA confirmed product 404 can provide much stronger evidence that a discovered storefront URL is genuinely broken.\n\nIf rate limiting is detected, the scanner activates a circuit breaker and stops unnecessary commerce mutations instead of repeatedly requesting the same store.\n\nThis classification layer became critical to producing reports that are useful without unfairly blaming the merchant.",
+        "image": "",
+        "order": "7"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "separating-the-web-application-from-browser-automation",
+      "fields": {
+        "title": "Separating the Web Application From Browser Automation",
+        "section_type": "architecture",
+        "content": "StoreProof uses a distributed architecture because real-browser scans are significantly heavier and longer-running than normal web requests.\n\nNext.js 16 + React 19 + TypeScript\nPublic application, report interface, API routes and scan submission.\n\nVercel\nHosts the public StoreProof application.\n\nPostgreSQL + Neon\nStores scans, findings and report data.\n\nRedis + BullMQ + Upstash\nQueues scans and separates browser workloads from incoming web requests.\n\nNode.js 22 + Playwright + Chromium\nRuns the storefront scanning engine.\n\nRailway\nHosts the long-running Playwright worker independently from the Vercel application.\n\nSupabase Storage\nStores screenshots and scan artifacts using S3-compatible object storage.\n\nThis architecture allows the public application to accept a scan quickly while the browser worker processes the storefront independently.",
+        "image": "",
+        "order": "8"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "from-url-submission-to-evidence-based-report",
+      "fields": {
+        "title": "From URL Submission to Evidence-Based Report",
+        "section_type": "integration",
+        "content": "A StoreProof scan moves through several independent services.\n\nThe customer submits a Shopify storefront URL through the Next.js application.\n\nThe application validates the URL and creates a scan record.\n\nThe scan job is sent to Redis and BullMQ.\n\nA Railway worker receives the job and launches Playwright with Chromium.\n\nThe worker navigates the storefront, performs the audit journey, captures findings and records evidence.\n\nStructured results are written to PostgreSQL while screenshots and artifacts are stored separately in object storage.\n\nThe public application then reads the completed scan data and renders the final StoreProof report.\n\nThis separation keeps the customer-facing application responsive while allowing browser automation to run as a controlled background workload.",
+        "image": "",
+        "order": "9"
+      }
+    },
+    {
+      "type": "project_section",
+      "handle": "a-storefront-qa-system-built-around-evidence",
+      "fields": {
+        "title": "A Storefront QA System Built Around Evidence",
+        "section_type": "result",
+        "content": "StoreProof evolved from a storefront scanner into an evidence-aware QA platform.\n\nThe production system combines:\n\nReal-browser storefront testing\nCommerce journey analysis\nMobile validation\nPerformance checks\nAutomated accessibility auditing\nSEO analysis\nJavaScript and network monitoring\nPrioritized findings\nEvidence classification\nAudit coverage\nResult confidence\nVersioned scoring methodology\n\nOne of the most important outcomes of the project was learning that automated QA should not simply produce more findings.\n\nIt should be able to explain why a finding exists, what evidence supports it and how certain the system is about that conclusion.\n\nThat principle now shapes both the StoreProof scanner and the report experience.",
+        "image": "",
+        "order": "10"
+      }
+    },
+    {
+      "type": "lab_content",
+      "handle": "storefront-api-sandbox-a-live-exploration-of-shopifys-storefront-api-using-graph-ql-this-experiment-demonstrates-how-commerce-data-can-be-requested-from-shopify-and-transformed-into-a-custom-frontend-experience",
+      "fields": {
+        "title": "Storefront API Sandbox",
+        "description": "A live exploration of Shopify's Storefront API using GraphQL. This experiment demonstrates how commerce data can be requested from Shopify and transformed into a custom frontend experience.",
+        "status": "Complete",
+        "technologies": "[\"GraphQL\",\"Storefront API\",\"Next.js\",\"React\",\"Typescript\"]",
+        "slug": "storefront-api",
+        "featured": "true"
+      }
+    },
+    {
+      "type": "lab_content",
+      "handle": "product-data-explorer",
+      "fields": {
+        "title": "Product Data Explorer",
+        "description": "A live product data explorer that retrieves products, variants, pricing, availability, and media directly from Shopify through the Storefront API.",
+        "status": "Complete",
+        "technologies": "[\"Shopify\",\"Storefront API\",\"GraphQL\",\"Products\",\"Product Variants\",\"Next.js\"]",
+        "slug": "products",
+        "featured": "true"
+      }
+    },
+    {
+      "type": "lab_content",
+      "handle": "metaobject-content-explorer",
+      "fields": {
+        "title": "Metaobject Content Explorer",
+        "description": "An experiment focused on Shopify metaobjects and structured content. The goal is to demonstrate how custom content models can be created in Shopify and consumed by a modern frontend.",
+        "status": "Complete",
+        "technologies": "[\"Metaobjects\",\"GraphQL\",\"Storefront API\",\"Structure Content\",\"Next.js\"]",
+        "slug": "metaobjects",
+        "featured": "true"
+      }
+    },
+    {
+      "type": "lab_content",
+      "handle": "theme-architecture",
+      "fields": {
+        "title": "Theme Architecture",
+        "description": "An interactive exploration of Shopify theme architecture,\nshowing how sections, blocks, schema-driven settings,\nLiquid, responsive composition, and commerce data become\nmerchant-configurable storefront experiences.",
+        "status": "Complete",
+        "technologies": "[\"Shopify\",\"Liquid\",\"Theme Schema\",\"Sections\",\"Blocks\",\"React\",\"Typescript\"]",
+        "slug": "theme-architecture",
+        "featured": "true"
+      }
+    },
+    {
+      "type": "lab_content",
+      "handle": "shopify-app-development",
+      "fields": {
+        "title": "Shopify App Development",
+        "description": "An interactive Shopify operations lab demonstrating Admin GraphQL queries, controlled mutations, cursor-based pagination, product selection, request activity, and application state using live Shopify commerce data.",
+        "status": "Complete",
+        "technologies": "[\"Shopify\",\"Admin GraphQL API\",\"Next.js\",\"React\",\"Typescript\"]",
+        "slug": "app-development",
+        "featured": "true"
+      }
+    },
+    {
+      "type": "lab_playground",
+      "handle": "shopify-architecture",
+      "fields": {
+        "title": "Shopify Architecture",
+        "description": "A structured exploration of how Shopify commerce data, APIs, and a custom frontend can work together.",
+        "category": "Architecture",
+        "status": "Published",
+        "related_entries": "[\"gid://shopify/Metaobject/281961005233\",\"gid://shopify/Metaobject/281960939697\"]"
+      }
+    },
+    {
+      "type": "lab_playground",
+      "handle": "headless-commerce",
+      "fields": {
+        "title": "Headless Commerce",
+        "description": "Exploring how Shopify can act as the commerce backend while a custom application controls the customer experience.",
+        "category": "Architecture",
+        "status": "Published",
+        "related_entries": "[\"gid://shopify/Metaobject/281961005233\"]"
+      }
+    },
+    {
+      "type": "lab_playground",
+      "handle": "storefront-api",
+      "fields": {
+        "title": "Storefront API",
+        "description": "A look at how structured Shopify commerce data can be queried and transformed into a custom storefront experience.",
+        "category": "API",
+        "status": "Published",
+        "related_entries": ""
+      }
+    },
+    {
+      "type": "lab_playground",
+      "handle": "sample-wa",
+      "fields": {
+        "title": "another sample",
+        "description": "asdasd",
+        "category": "sample",
+        "status": "Draft",
+        "related_entries": "[\"gid://shopify/Metaobject/281960906929\"]"
+      }
+    },
+    {
+      "type": "rxr_fixture_note",
+      "handle": "seed-42",
+      "fields": {
+        "title": "Fixture seed 42",
+        "body": "Preset: minimal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "definitions": [
+    {
+      "type": "project",
+      "name": "Project",
+      "displayNameKey": "title",
+      "fields": [
+        {
+          "key": "title",
+          "name": "Title",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "description",
+          "name": "Description",
+          "type": "multi_line_text_field",
+          "required": false
+        },
+        {
+          "key": "project_type",
+          "name": "Project Type",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "technologies",
+          "name": "Technologies",
+          "type": "list.single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "year",
+          "name": "Year",
+          "type": "number_integer",
+          "required": false
+        },
+        {
+          "key": "role",
+          "name": "Role",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "featured",
+          "name": "Featured",
+          "type": "boolean",
+          "required": false
+        },
+        {
+          "key": "live_url",
+          "name": "Live URL",
+          "type": "url",
+          "required": false
+        },
+        {
+          "key": "github",
+          "name": "Github",
+          "type": "url",
+          "required": false
+        },
+        {
+          "key": "hero_image",
+          "name": "Hero Image",
+          "type": "file_reference",
+          "required": false
+        },
+        {
+          "key": "screenshots",
+          "name": "Screenshots",
+          "type": "list.file_reference",
+          "required": false
+        },
+        {
+          "key": "gallery_description",
+          "name": "Gallery Description",
+          "type": "multi_line_text_field",
+          "required": false
+        },
+        {
+          "key": "featured_screenshot",
+          "name": "Featured Screenshot",
+          "type": "file_reference",
+          "required": false
+        },
+        {
+          "key": "project_sections",
+          "name": "Project Sections",
+          "type": "list.metaobject_reference",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "project_section",
+      "name": "Project Section",
+      "displayNameKey": "title",
+      "fields": [
+        {
+          "key": "title",
+          "name": "Title",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "section_type",
+          "name": "Section Type",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "content",
+          "name": "Content",
+          "type": "multi_line_text_field",
+          "required": false
+        },
+        {
+          "key": "image",
+          "name": "Image",
+          "type": "file_reference",
+          "required": false
+        },
+        {
+          "key": "order",
+          "name": "Order",
+          "type": "number_integer",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "lab_content",
+      "name": "Lab Content",
+      "displayNameKey": "title",
+      "fields": [
+        {
+          "key": "title",
+          "name": "Title",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "description",
+          "name": "Description",
+          "type": "multi_line_text_field",
+          "required": false
+        },
+        {
+          "key": "status",
+          "name": "Status",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "technologies",
+          "name": "Technologies",
+          "type": "list.single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "slug",
+          "name": "Slug",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "featured",
+          "name": "Featured",
+          "type": "boolean",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "lab_playground",
+      "name": "Lab Playground",
+      "displayNameKey": "title",
+      "fields": [
+        {
+          "key": "title",
+          "name": "Title",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "description",
+          "name": "Description",
+          "type": "multi_line_text_field",
+          "required": false
+        },
+        {
+          "key": "category",
+          "name": "Category",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "status",
+          "name": "Status",
+          "type": "single_line_text_field",
+          "required": false
+        },
+        {
+          "key": "related_entries",
+          "name": "Related Entries",
+          "type": "list.metaobject_reference",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "rxr_fixture_note",
+      "name": "RXR Fixture Note",
+      "displayNameKey": "title",
+      "fields": [
+        {
+          "key": "title",
+          "name": "Title",
+          "type": "single_line_text_field",
+          "required": true
+        },
+        {
+          "key": "body",
+          "name": "Body",
+          "type": "multi_line_text_field",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
