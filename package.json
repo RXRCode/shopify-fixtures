@@ -17,6 +17,8 @@
   "engines": {"node": ">=20"},
   "keywords": ["shopify", "fixtures", "development-store", "metaobjects", "metafields", "testing"],
   "license": "MIT",
+  "publishConfig": {
+  "access": "public"},
   "repository": {"type": "git", "url": "https://github.com/rxrcode/shopify-fixtures.git"},
   "homepage": "https://github.com/rxrcode/shopify-fixtures#readme",
   "bugs": {"url": "https://github.com/rxrcode/shopify-fixtures/issues"},
