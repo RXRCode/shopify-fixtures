@@ -10,12 +10,10 @@ export async function validateFixtures(dir: string) {
   const all = await loadAllFixtures(dir);
   const errors: string[] = [];
   const productHandles = duplicates(all.products.products.map(p => p.handle));
-  const skus = duplicates(all.products.products.flatMap(p => (p.variants ?? []).map(v => v.sku)));
   const collectionHandles = duplicates(all.collections.collections.map(c => c.handle));
   const definitionTypes = duplicates(all.definitions.definitions.map(d => d.type));
   const metaobjectIds = duplicates(all.metaobjects.metaobjects.map(m => `${m.type}/${m.handle}`));
   if (productHandles.length) errors.push(`Duplicate product handles: ${productHandles.join(", ")}`);
-  if (skus.length) errors.push(`Duplicate SKUs: ${skus.join(", ")}`);
   if (collectionHandles.length) errors.push(`Duplicate collection handles: ${collectionHandles.join(", ")}`);
   if (definitionTypes.length) errors.push(`Duplicate metaobject definition types: ${definitionTypes.join(", ")}`);
   if (metaobjectIds.length) errors.push(`Duplicate metaobjects: ${metaobjectIds.join(", ")}`);

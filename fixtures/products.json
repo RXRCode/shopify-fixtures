@@ -23,28 +23,28 @@
       ],
       "variants": [
         {
-          "sku": "fixture-gift-card",
+          "sku": "",
           "price": "10.00",
           "options": {
             "Denominations": "$10"
           }
         },
         {
-          "sku": "fixture-gift-card",
+          "sku": "",
           "price": "25.00",
           "options": {
             "Denominations": "$25"
           }
         },
         {
-          "sku": "fixture-gift-card",
+          "sku": "",
           "price": "50.00",
           "options": {
             "Denominations": "$50"
           }
         },
         {
-          "sku": "fixture-gift-card",
+          "sku": "",
           "price": "100.00",
           "options": {
             "Denominations": "$100"
@@ -104,7 +104,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-minimal-snowboard",
+          "sku": "",
           "price": "885.95",
           "options": {
             "Title": "Default Title"
@@ -136,7 +136,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-compare-at-price-snowboard",
+          "sku": "",
           "price": "785.95",
           "options": {
             "Title": "Default Title"
@@ -171,7 +171,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-archived-snowboard",
+          "sku": "",
           "price": "629.95",
           "options": {
             "Title": "Default Title"
@@ -203,7 +203,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-out-of-stock-snowboard",
+          "sku": "",
           "price": "885.95",
           "options": {
             "Title": "Default Title"
@@ -231,7 +231,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-videographer-snowboard",
+          "sku": "",
           "price": "885.95",
           "options": {
             "Title": "Default Title"
@@ -265,7 +265,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-hidden-snowboard",
+          "sku": "",
           "price": "749.95",
           "options": {
             "Title": "Default Title"
@@ -312,7 +312,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-draft-snowboard",
+          "sku": "",
           "price": "2629.95",
           "options": {
             "Title": "Default Title"
@@ -350,35 +350,35 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-complete-snowboard",
+          "sku": "",
           "price": "699.95",
           "options": {
             "Color": "Ice"
           }
         },
         {
-          "sku": "fixture-the-complete-snowboard",
+          "sku": "",
           "price": "699.95",
           "options": {
             "Color": "Dawn"
           }
         },
         {
-          "sku": "fixture-the-complete-snowboard",
+          "sku": "",
           "price": "699.95",
           "options": {
             "Color": "Powder"
           }
         },
         {
-          "sku": "fixture-the-complete-snowboard",
+          "sku": "",
           "price": "699.95",
           "options": {
             "Color": "Electric"
           }
         },
         {
-          "sku": "fixture-the-complete-snowboard",
+          "sku": "",
           "price": "699.95",
           "options": {
             "Color": "Sunset"
@@ -435,7 +435,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-collection-snowboard-hydrogen",
+          "sku": "",
           "price": "600.00",
           "options": {
             "Title": "Default Title"
@@ -476,21 +476,21 @@
       ],
       "variants": [
         {
-          "sku": "fixture-selling-plans-ski-wax",
+          "sku": "",
           "price": "24.95",
           "options": {
             "Title": "Selling Plans Ski Wax"
           }
         },
         {
-          "sku": "fixture-selling-plans-ski-wax",
+          "sku": "",
           "price": "49.95",
           "options": {
             "Title": "Special Selling Plans Ski Wax"
           }
         },
         {
-          "sku": "fixture-selling-plans-ski-wax",
+          "sku": "",
           "price": "9.95",
           "options": {
             "Title": "Sample Selling Plans Ski Wax"
@@ -524,7 +524,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-multi-location-snowboard",
+          "sku": "",
           "price": "729.95",
           "options": {
             "Title": "Default Title"
@@ -629,7 +629,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-collection-snowboard-oxygen",
+          "sku": "",
           "price": "1025.00",
           "options": {
             "Title": "Default Title"
@@ -668,7 +668,7 @@
       ],
       "variants": [
         {
-          "sku": "fixture-the-collection-snowboard-liquid",
+          "sku": "",
           "price": "749.95",
           "options": {
             "Title": "Default Title"

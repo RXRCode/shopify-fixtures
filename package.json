@@ -1,6 +1,6 @@
 {
   "name": "@rxrcode/shopify-fixtures",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Reproducible development data for Shopify.",
   "type": "module",
   "bin": {
@@ -9,7 +9,11 @@
   "files": [
     "dist",
     "README.md",
-    "LICENSE"
+    "CHANGELOG.md",
+    "LICENSE",
+    "docs/architecture.md",
+    "docs/safety.md",
+    "docs/shopify-setup.md"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
@@ -18,7 +22,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint src tests --max-warnings=0",
-    "check": "npm run lint && npm run typecheck && npm test && npm run build"
+    "check": "npm run lint && npm run typecheck && npm test && npm run build",
+    "prepack": "npm run check"
   },
   "engines": {
     "node": ">=20"
