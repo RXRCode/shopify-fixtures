@@ -7,14 +7,14 @@
     "rxr-fixtures": "dist/cli/index.js"
   },
   "files": [
-  "dist",
-  "README.md",
-  "CHANGELOG.md",
-  "LICENSE",
-  "docs/architecture.md",
-  "docs/safety.md",
-  "docs/shopify-setup.md"
-],
+    "dist",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "docs/architecture.md",
+    "docs/safety.md",
+    "docs/shopify-setup.md"
+  ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "dev": "tsx src/cli/index.ts",
