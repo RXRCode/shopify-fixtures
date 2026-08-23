@@ -18,7 +18,7 @@ export const productFixtureSchema = z.object({
     values: z.array(z.string().min(1)).min(1)
   })).optional(),
   variants: z.array(z.object({
-    sku: z.string().min(1),
+    sku: z.string(),
     price,
     options: z.record(z.string(), z.string()).optional()
   })).optional(),
